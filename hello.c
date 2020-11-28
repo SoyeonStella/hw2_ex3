@@ -5,5 +5,6 @@ int main() {
 	printf("I'm Bob\n");
 	printf("sos\n");
 	printf("wow\n");
+	printf("git\n");
 	return 0;
 }
