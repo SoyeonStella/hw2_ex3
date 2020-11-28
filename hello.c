@@ -4,5 +4,6 @@ int main() {
 	printf("I'm soyoen\n");
 	printf("I'm Bob\n");
 	printf("sos\n");
+	printf("wow\n");
 	return 0;
 }
