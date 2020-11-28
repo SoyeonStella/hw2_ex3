@@ -6,5 +6,6 @@ int main() {
 	printf("sos\n");
 	printf("wow\n");
 	printf("git\n");
+	printf("how\n");
 	return 0;
 }
